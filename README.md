@@ -4,11 +4,10 @@ Full Stack Data Science Masters - Practice
 ![](https://i.imgur.com/gi1t9us.jpg)
 
 # Method
-This repository shows how to extract insights from data using statistical and machine learning techniques, as well as data visualization and data operational skills. We'll learn how to work with popular data analysis tools such as Python, SQL, and machine learning frameworks, and work on hands-on projects to apply their knowledge. Overall, the repository provides earners with the skills to make informed decisions based on data, relevant to a wide range of industries. We will learn all the stack required to work in data science, including machine learning operations and cloud infrastructure, as well as real-time industry projects.
+This repository shows how to extract insights from data using statistical and machine learning techniques, as well as data visualization and data operational skills. We'll learn how to work with popular data analysis tools such as Python, SQL, and machine learning frameworks, and work on hands-on projects to apply their knowledge. Overall, the repository provides earners with the skills to make informed decisions based on data, relevant to a wide range of industries. We will learn all the stack required to work in data science, including machine learning operations and cloud infrastructure, as well as real-time industry projects. https://ineuron.ai/
 
-![](https://i.imgur.com/Z2M9r4M.png)
+![](https://ineuron.ai/images/ineuron-logo.png)
 
-https://ineuron.ai/
 
 Acknowledgements 
 =================
